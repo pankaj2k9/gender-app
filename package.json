@@ -1,0 +1,21 @@
+{
+  "name": "genderapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.8",
+    "deathbycaptcha": "0.0.3",
+    "express": "^4.16.4",
+    "gender-detection": "^0.1.0",
+    "google-search": "0.0.5",
+    "google-search-results-nodejs": "0.0.1",
+    "google-search-scraper": "^0.1.0",
+    "google-trends-api": "^4.7.0"
+  }
+}
